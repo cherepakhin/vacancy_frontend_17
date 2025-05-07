@@ -1,0 +1,80 @@
+.list {
+  text-align: left;
+  max-width: 750px;
+  margin: 1pt;
+}
+
+.submit-form {
+  max-width: 300px;
+  margin: 10px;
+}
+
+.edit-form {
+  max-width: 400px;
+  margin: 10px;
+}
+
+.container {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.btn-6em {
+    width: 6em;
+}
+
+.btn-7em {
+    width: 8em;
+}
+
+.btn-8em {
+    width: 8em;
+}
+
+.btn-6em {
+    width: 6em;
+}
+
+.btn {
+    border-radius: 0rem;
+ }
+
+.pad1px {
+    padding-right: 1em;
+    padding-left: 1em;
+}
+
+.margin1px {
+    margin-right: 0.5em;
+    margin-left: 0.5em;
+}
+
+.margin-left-1em {
+    margin-left: 1em;
+}
+
+.margin-top-0_5em {
+    margin-top: 0.5em;
+}
+
+.margin-left_0_5em {
+    margin-left: 0.5em;
+}
+
+.padding-left-0 {
+    padding-left: 0px;
+}
+
+.inline {
+    display: inline-block;
+}
+
+.padding-left-1em {
+    padding-left: 1em;
+}
+
+.padding-left-05em {
+    padding-left: 0.5em;
+}
+
+

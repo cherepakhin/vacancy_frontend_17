@@ -4,7 +4,7 @@
 
 Заготовка для React проекта.
 
-В проекте НЕ ИСПОЛЬЗУЕТСЯ Redux. Компоненты напрямую вызывают backend (vacancy.service.js). Пример:
+В проекте НЕ ИСПОЛЬЗУЕТСЯ Redux (проект с redux [https://github.com/cherepakhin/vacancy_front](https://github.com/cherepakhin/vacancy_front)). Компоненты напрямую вызывают backend (vacancy.service.js). Пример:
 
 ````shell
 class Vacancy extends Component {
